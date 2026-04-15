@@ -1,6 +1,6 @@
 # Hi 👋
 
-Perkenalkan nama saya **Rizky Prayatman** <br>
+Perkenalkan nama saya **Muhamad Ihsan Kurniawan** <br>
 Salam kenal..
 
 <p align="left">
