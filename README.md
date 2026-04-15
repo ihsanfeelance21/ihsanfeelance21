@@ -1,23 +1,20 @@
-# Hello, I'm Ihsan
+# Hi 👋
 
-I am an Informatics student and an IT Professional with a strong foundation in network infrastructure and web development. With over 6 years of experience managing IT operations, I am currently pivoting my focus toward building robust and scalable web applications.
+Perkenalkan nama saya **Rizky Prayatman** <br>
+Salam kenal..
 
-## About Me
+<p align="left">
+<a href="https://github.com/ihsanfeelance21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihsanfeelance21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihsanfeelance21&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-* Currently pursuing a Bachelor's Degree in Informatics at Universitas Siber Muhammadiyah.
-* Working as an IT & Web Development Lead, overseeing everything from network topology planning to full-stack web deployment.
-* Recently deployed a dynamic school portal using CodeIgniter 4 and Tailwind CSS.
-* Currently exploring modern JavaScript frameworks and expanding my backend expertise.
+<h3 align="left">Berkenalan denganku melalui :</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/muhamad-ihsan-kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subastiansk" height="30" width="40" /></a>
+</p>
 
-## Tech Stack & Tools
+<br>
 
-* **Languages:** PHP, JavaScript, HTML5, CSS3
-* **Frameworks/Libraries:** CodeIgniter 4, Tailwind CSS, Alpine.js
-* **CMS:** WordPress (Elementor)
-* **Infrastructure & DB:** MySQL, Network Administration, Hardware Maintenance
-* **Tools:** Git, Composer, NPM
-
-## Connect with Me
-
-* [LinkedIn] https://www.linkedin.com/in/muhamad-ihsan-kurniawan/
-* Portfolio Projects: Feel free to explore my pinned repositories below.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanfeelance21&" alt="ihsanfeelance21" /></p>
