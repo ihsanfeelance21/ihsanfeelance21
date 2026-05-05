@@ -11,13 +11,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **MA Mabadi'ul Ihsan As IT Support**
+- 🔭 I’m currently working on **MA Mabadi'ul Ihsan Website and System School Registration**
 
 - 🌱 I’m currently learning **PHP, Javascript, and NodeJS**
 
 - 👨‍💻 All of my projects are available at **[Coming Soon]**
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, PHP and NodeJS**
 
 - 📫 How to reach me: **[ihsanfreelance21@gmail.com](mailto:ihsanfreelance21@gmail.com)**
 
