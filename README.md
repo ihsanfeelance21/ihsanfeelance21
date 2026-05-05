@@ -76,8 +76,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api?username=ihsanfeelance21&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" alt="Ihsan's GitHub Stats">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ihsanfeelance21&theme=midnight-purple)](https://git.io/streak-stats)
 
