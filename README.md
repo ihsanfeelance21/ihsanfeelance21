@@ -114,4 +114,4 @@ Current Version
 
 ---
 
-> *"Build the Infrastructure, Build the Skills."*
+> *"Every repository has one responsibility, every commit has one purpose, and every project tells a story."*
