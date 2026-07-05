@@ -1,4 +1,4 @@
-# Hi there, I'm Ihsan 👋
+# Hi there, I'm Muhamad Ihsan Kurniawan
 
 ## Administration • Web Development • Networking • Homelab
 
@@ -108,9 +108,9 @@ Current Version
 
 # Connect With Me
 
-- LinkedIn
+- LinkedIn : *(Coming Soon)*
 - Portfolio *(Coming Soon)*
-- Email
+- Email : ihsanfreelance2@gmail.com
 
 ---
 
