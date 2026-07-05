@@ -71,39 +71,14 @@ Cloud Computing
 
 # Technologies
 
-### Programming
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- CodeIgniter 4
-- Laravel *(Learning)*
-
-### Infrastructure
-
-- Ubuntu Server
-- Linux
-- Nginx
-- SSH
-- Git
-- GitHub
-
-### Networking
-
-- TCP/IP
-- DNS
-- DHCP
-- Routing
-- Network Topology
-- CCTV Infrastructure
-
-### DevOps (Learning)
-
-- Docker
-- Docker Compose
-- CI/CD
-- Cloud Computing
+| Programming | Infrastructure | Networking | DevOps (Learning) |
+|------------|------------|------------|------------|
+| HTML | Ubuntu Server | TCP/IP | Docker |
+| JavaScript | Linux | DNS | Docker Compose |
+| PHP | Nginx | DHCP | CI/CD |
+| CodeIgniter 4 | SSH | Routing | Cloud Computing |
+| Laravel *(Learning)* | Git | Network Topology | |
+| | GitHub | CCTV Infrastructure | |
 
 ---
 
