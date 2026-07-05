@@ -1,97 +1,142 @@
-![logo](rantau.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+# Hi there, I'm Ihsan 👋
 
-<h1 align="center">Hi 👋, I'm Muhamad Ihsan Kurniawan</h1>
-<h3 align="center">A passionate Programmer from Indonesia</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=ihsanfeelance21&label=Profile%20views&color=0e75b6&style=flat" alt="Ihsan's Profile Views" /> 
-</p>
+## Administration • Web Development • Networking • Homelab
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+I'm currently transitioning my career toward **Infrastructure, Backend Development, and DevOps Engineering** by building a complete **Personal Infrastructure Ecosystem** from the ground up.
 
-- 🔭 I’m currently working on **MA Mabadi'ul Ihsan Website and System School Registration**
+Rather than only learning technologies, I'm building real-world projects that integrate Linux, Networking, Web Development, Automation, and Cloud Computing.
 
-- 🌱 I’m currently learning **PHP, Javascript, and NodeJS**
+---
 
-- 👨‍💻 All of my projects are available at **[Coming Soon]**
+# Current Mission
 
-- 💬 Ask me about **Java, PHP and NodeJS**
+Build a self-hosted infrastructure using **Ubuntu Server** that will become my personal laboratory for learning and deploying applications.
 
-- 📫 How to reach me: **[ihsanfreelance21@gmail.com](mailto:ihsanfreelance21@gmail.com)**
+This ecosystem will gradually evolve into:
 
-- ⚡ Fun fact: **I think I'm hardworker**
+- 🌐 Portfolio Website
+- 🖥️ Homelab Server
+- 🐧 Linux Laboratory
+- 🌐 Networking Laboratory
+- 🐳 Docker Environment
+- ⚙️ CI/CD Pipeline
+- ☁️ Cloud Deployment
 
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/muhamad-ihsan-kurniawan" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://instagram.com/kakrantau" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-<a href="https://fb.com/kakrantau" target="blank">
-    <img src="https://skillicons.dev/icons?i=facebook"/>
-  </a>
-</p>
-<br>
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+# Current Roadmap
 
-<h3 align="left">Languages and Tools:</h3>
+2026 Roadmap
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs" />
-  </a>
-</p>
+```
+Ubuntu Server
+        ↓
+Linux Administration
+        ↓
+Networking
+        ↓
+Web Server (Nginx)
+        ↓
+Portfolio HTML
+        ↓
+CodeIgniter 4
+        ↓
+Docker
+        ↓
+Laravel
+        ↓
+DevOps
+        ↓
+Cloud Computing
+```
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,tailwind,wordpress" />
-  </a>
-</p>
+---
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
+#  Active Repositories
 
-- Cloud Servers & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,vercel" />
-  </a>
-</p>
+| Repository | Description |
+|------------|-------------|
+| career-evolution | My professional learning journey |
+| homelab | Ubuntu Server & Infrastructure |
+| linux-notes | Linux learning notes |
+| networking-notes | Networking documentation |
+| portfolio-html | Personal Portfolio (HTML/CSS/JS) |
+| portfolio-codeigniter | Portfolio using CodeIgniter 4 |
+| portfolio-laravel | Portfolio using Laravel |
+| docker-lab | Docker & Containerization |
+| bash-scripts | Linux Automation Scripts |
+| dotfiles | Linux Configuration Files |
 
-<br/>
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+# Technologies
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
+### Programming
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ihsanfeelance21&theme=midnight-purple)](https://git.io/streak-stats)
+- HTML
+- CSS
+- JavaScript
+- PHP
+- CodeIgniter 4
+- Laravel *(Learning)*
 
-</div>
+### Infrastructure
 
-<br><br>
+- Ubuntu Server
+- Linux
+- Nginx
+- SSH
+- Git
+- GitHub
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### Networking
 
-<h3 align="left">Activity:</h3>
+- TCP/IP
+- DNS
+- DHCP
+- Routing
+- Network Topology
+- CCTV Infrastructure
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsanfeelance21&custom_title=Ihsan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph">
-<br><br>
+### DevOps (Learning)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+- Docker
+- Docker Compose
+- CI/CD
+- Cloud Computing
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+---
 
-<br>
+## Building In Public
+
+Current Version
+
+✅ v0.1 — Hardware Preparation
+⬜ v0.2 — Ubuntu Server
+⬜ v0.3 — SSH + Static IP
+⬜ v0.4 — Nginx
+⬜ v1.0 — Portfolio HTML
+⬜ v2.0 — Portfolio CodeIgniter
+⬜ v3.0 — Portfolio Laravel
+⬜ v4.0 — Docker & DevOps
+⬜ v5.0 — Cloud Deployment
+
+# Current Goals
+
+- Build a stable Ubuntu Server Homelab
+- Deploy my portfolio using Nginx
+- Migrate portfolio to CodeIgniter 4
+- Learn Docker & CI/CD
+- Deploy applications to the Cloud
+
+---
+
+# Connect With Me
+
+- LinkedIn
+- Portfolio *(Coming Soon)*
+- Email
+
+---
+
+> *"Build the Infrastructure, Build the Skills."*
