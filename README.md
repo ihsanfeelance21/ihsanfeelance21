@@ -29,25 +29,25 @@ This ecosystem will gradually evolve into:
 2026 Roadmap
 
 ```
-Ubuntu Server
-        ↓
-Linux Administration
-        ↓
-Networking
-        ↓
-Web Server (Nginx)
-        ↓
-Portfolio HTML
-        ↓
-CodeIgniter 4
-        ↓
-Docker
-        ↓
-Laravel
-        ↓
-DevOps
-        ↓
-Cloud Computing
+          Ubuntu Server
+                ↓
+        Linux Administration
+                ↓
+            Networking
+                ↓
+        Web Server (Nginx)
+                ↓
+          Portfolio HTML
+                ↓
+          CodeIgniter 4
+                ↓
+              Docker
+                ↓
+             Laravel
+                ↓
+              DevOps
+                ↓
+         Cloud Computing
 ```
 
 ---
