@@ -111,6 +111,7 @@ Current Version
 - LinkedIn : *(Coming Soon)*
 - Portfolio *(Coming Soon)*
 - Email : ihsanfreelance2@gmail.com
+- Instagram : kakrantau
 
 ---
 
