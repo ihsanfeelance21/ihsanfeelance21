@@ -24,44 +24,10 @@ Current focus:
 
 ---
 
-# Current Roadmap
-
-2026 Roadmap
-
-```
-                Foundation
-                    │
-                    ▼
-               Ubuntu Server
-                    │
-                    ▼
-            Linux Administration
-                    │
-                    ▼
-                Networking
-                    │
-                    ▼
-            Web Server (Nginx)
-                    │
-                    ▼
-             Portfolio (HTML)
-                    │
-                    ▼
-              CodeIgniter 4
-                    │
-                    ▼
-              Docker & CI/CD
-                    │
-                    ▼
-                 Laravel
-                    │
-                    ▼
-            Production Homelab
-                    │
-                    ▼
-              Cloud Computing
-```
-
+<h2>Current Roadmap</h2>
+<p align="center">
+<img src="assets/roadmap.png" alt="Project Ascend Roadmap" width="100%">
+</p>
 ---
 
 #  Active Repositories
