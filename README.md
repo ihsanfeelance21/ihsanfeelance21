@@ -10,17 +10,17 @@ Rather than only learning technologies, I'm building real-world projects that in
 
 # Current Mission
 
-Build a self-hosted infrastructure using **Ubuntu Server** that will become my personal laboratory for learning and deploying applications.
+Building a production-inspired **Personal Infrastructure Ecosystem** while transitioning into **Backend & Infrastructure Engineering**.
 
-This ecosystem will gradually evolve into:
+Every project is built, deployed, documented, and continuously improved through my self-hosted Ubuntu Server Homelab.
 
-- 🌐 Portfolio Website
-- 🖥️ Homelab Server
-- 🐧 Linux Laboratory
-- 🌐 Networking Laboratory
-- 🐳 Docker Environment
-- ⚙️ CI/CD Pipeline
-- ☁️ Cloud Deployment
+Current focus:
+
+- 🐧 Linux Administration
+- 🌐 Networking
+- 💻 Backend Development
+- 🐳 Docker & DevOps
+- ☁️ Cloud Computing
 
 ---
 
@@ -29,25 +29,37 @@ This ecosystem will gradually evolve into:
 2026 Roadmap
 
 ```
-          Ubuntu Server
-                ↓
-        Linux Administration
-                ↓
-            Networking
-                ↓
-        Web Server (Nginx)
-                ↓
-          Portfolio HTML
-                ↓
-          CodeIgniter 4
-                ↓
-              Docker
-                ↓
-             Laravel
-                ↓
-              DevOps
-                ↓
-         Cloud Computing
+                Foundation
+                    │
+                    ▼
+               Ubuntu Server
+                    │
+                    ▼
+            Linux Administration
+                    │
+                    ▼
+                Networking
+                    │
+                    ▼
+            Web Server (Nginx)
+                    │
+                    ▼
+             Portfolio (HTML)
+                    │
+                    ▼
+              CodeIgniter 4
+                    │
+                    ▼
+              Docker & CI/CD
+                    │
+                    ▼
+                 Laravel
+                    │
+                    ▼
+            Production Homelab
+                    │
+                    ▼
+              Cloud Computing
 ```
 
 ---
@@ -71,39 +83,53 @@ This ecosystem will gradually evolve into:
 
 # Technologies
 
-| Programming | Infrastructure | Networking | DevOps (Learning) |
+| Backend | Infrastructure | Networking | DevOps & Cloud |
 |------------|------------|------------|------------|
-| HTML | Ubuntu Server | TCP/IP | Docker |
-| JavaScript | Linux | DNS | Docker Compose |
-| PHP | Nginx | DHCP | CI/CD |
-| CodeIgniter 4 | SSH | Routing | Cloud Computing |
-| Laravel *(Learning)* | Git | Network Topology | |
-| | GitHub | CCTV Infrastructure | |
+| PHP *(Learning)* | Ubuntu Server *(Learning)* | TCP/IP *(Learning)* | Docker *(Learning)*|
+| CodeIgniter4 *(Learning)* | Linux *(Learning)* | DNS *(Learning)* | Docker Compose *(Learning)* |
+| Laravel *(Learning)* | Nginx *(Learning)* | Routing *(Learning)* | GitHub Actions *(Learning)* |
+| HTML/CSS/JavaScript| Git & GitHub *(Learning)* | Network Design *(Learning)*| Cloud Computing *(Learning)* |
+
 
 ---
 
-## Building In Public
+# Building in Public
 
-Current Version
+Project Ascend Progress
 
-✅ v0.1 — Hardware Preparation
-⬜ v0.2 — Ubuntu Server
-⬜ v0.3 — SSH + Static IP
-⬜ v0.4 — Nginx
-⬜ v1.0 — Portfolio HTML
-⬜ v2.0 — Portfolio CodeIgniter
-⬜ v3.0 — Portfolio Laravel
-⬜ v4.0 — Docker & DevOps
-⬜ v5.0 — Cloud Deployment
+🟨 Hardware Preparation *(In Progress)*
+
+⬜ Ubuntu Server Setup
+
+⬜ Linux & Networking Foundation 
+
+⬜ Portfolio HTML
+
+⬜ Portfolio CodeIgniter
+
+⬜ Docker & CI/CD
+
+⬜ Portfolio Laravel
+
+⬜ Production Homelab
+
+⬜ Cloud Deployment
 
 # Current Goals
 
 - Build a stable Ubuntu Server Homelab
-- Deploy my portfolio using Nginx
-- Migrate portfolio to CodeIgniter 4
-- Learn Docker & CI/CD
-- Deploy applications to the Cloud
+- Master Linux Administration & Networking Fundamentals
+- Deploy my first HTML Portfolio using Nginx
+- Migrate the portfolio to CodeIgniter 4
+- Prepare for Backend & Infrastructure Engineer opportunities
 
+# Currently Working On
+
+- 🖥️ Building my Ubuntu Server Homelab
+- 📚 Studying Linux Administration
+- 🌐 Learning Networking Fundamentals
+- 💻 Developing my HTML Portfolio
+- 📝 Documenting everything in Project Ascend
 ---
 
 # Connect With Me
@@ -115,4 +141,4 @@ Current Version
 
 ---
 
-> *"Every repository has one responsibility, every commit has one purpose, and every project tells a story."*
+> *"Saya sedang membangun sebuah Ubuntu Server Homelab, mendokumentasikan seluruh prosesnya, mengembangkan portfolio secara bertahap dari HTML ke CodeIgniter lalu Laravel, dan menggunakan proyek itu untuk berkembang menjadi Backend & Infrastructure Engineer."*
