@@ -28,7 +28,6 @@ Current focus:
 <p align="center">
 <img src="assets/roadmap.png" alt="Project Ascend Roadmap" width="100%">
 </p>
----
 
 #  Active Repositories
 
@@ -81,28 +80,21 @@ Project Ascend Progress
 
 ⬜ Cloud Deployment
 
-# Current Goals
+| Current Goals | Currently Working On |
+|------------|------------|
+| Build a stable Ubuntu Server Homelab | Building my Ubuntu Server Homelab |
+| Master Linux Administration & Networking Fundamentals  | Studying Linux Administration |
+| Deploy my first HTML Portfolio using Nginx | Learning Networking Fundamentals |
+| Migrate the portfolio to CodeIgniter 4 | Developing my HTML Portfolio |
+| Prepare for Backend & Infrastructure Engineer opportunities | Documenting everything in Project Ascend |
 
-- Build a stable Ubuntu Server Homelab
-- Master Linux Administration & Networking Fundamentals
-- Deploy my first HTML Portfolio using Nginx
-- Migrate the portfolio to CodeIgniter 4
-- Prepare for Backend & Infrastructure Engineer opportunities
-
-# Currently Working On
-
-- 🖥️ Building my Ubuntu Server Homelab
-- 📚 Studying Linux Administration
-- 🌐 Learning Networking Fundamentals
-- 💻 Developing my HTML Portfolio
-- 📝 Documenting everything in Project Ascend
 ---
 
 # Connect With Me
 
 - LinkedIn : *(Coming Soon)*
 - Portfolio *(Coming Soon)*
-- Email : ihsanfreelance2@gmail.com
+- Email : ihsanfreelance21@gmail.com
 - Instagram : [kakrantau ](https://www.instagram.com/kakrantau/)
 
 ---
