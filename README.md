@@ -80,6 +80,8 @@ Project Ascend Progress
 
 ⬜ Cloud Deployment
 
+---
+
 | Current Goals | Currently Working On |
 |------------|------------|
 | Build a stable Ubuntu Server Homelab | Building my Ubuntu Server Homelab |
