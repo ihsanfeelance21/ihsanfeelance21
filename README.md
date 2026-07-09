@@ -1,10 +1,10 @@
 # Hi there, I'm Muhamad Ihsan Kurniawan
 
-## Administration • Web Development • Networking • Homelab
+## IT Infrastructure • Networking • Backend Development
 
-I'm currently transitioning my career toward **Infrastructure, Backend Development, and DevOps Engineering** by building a complete **Personal Infrastructure Ecosystem** from the ground up.
+I have practical experience in IT Operations, Network Infrastructure, and Web Development, gained through supporting educational institutions and developing digital solutions.
 
-Rather than only learning technologies, I'm building real-world projects that integrate Linux, Networking, Web Development, Automation, and Cloud Computing.
+Currently expanding my expertise by building a self-hosted infrastructure focused on Linux, Backend Development, DevOps, and Cloud Computing.
 
 ---
 
